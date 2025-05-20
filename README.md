@@ -15,7 +15,7 @@ II) Methodology:
 III) Tools and Libraries:
 - PennyLane – Quantum computing framework
 - Scikit-learn – Machine learning tools for PCA and SVM
-- Python 3.8+ (VSCODE)
+- Python 3.11.1 (VSCODE)
 
 IV) Dataset:
 The dataset consists of ADAS-related images collected from multiple mobile devices, including:
