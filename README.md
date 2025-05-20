@@ -16,14 +16,14 @@ III) Tools and Libraries:
 - PennyLane – Quantum computing framework
 - Scikit-learn – Machine learning tools for PCA and SVM
 - Python 3.11.1 (VSCODE)
-- Dataset Description: https://datasetninja.com/adas#introduction
-- Dataset Download: https://www.kaggle.com/datasets/prabhusomsaitalari/dataset-for-driver-assistant-ml-models
 
 IV) Dataset:
+- Dataset Description: https://datasetninja.com/adas#introduction
+- Dataset Download: https://www.kaggle.com/datasets/prabhusomsaitalari/dataset-for-driver-assistant-ml-models
 The dataset consists of ADAS-related images collected from multiple mobile devices, including:
 - iphone 12
 - VIVO Y51A
-Each image is labeled according to ADAS features such as potholes, road markings, speed breakers, etc.
+- Each image is labeled according to ADAS features such as potholes, road markings, speed breakers, etc.
 
 V) Result:
 The model achieves an overall accuracy of 65%, with relatively balanced performance across both devices.
