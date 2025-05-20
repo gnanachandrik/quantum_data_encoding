@@ -16,6 +16,8 @@ III) Tools and Libraries:
 - PennyLane – Quantum computing framework
 - Scikit-learn – Machine learning tools for PCA and SVM
 - Python 3.11.1 (VSCODE)
+- Dataset Description: https://datasetninja.com/adas#introduction
+- Dataset Download: https://www.kaggle.com/datasets/prabhusomsaitalari/dataset-for-driver-assistant-ml-models
 
 IV) Dataset:
 The dataset consists of ADAS-related images collected from multiple mobile devices, including:
